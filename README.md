@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatima-Alaskar
-- 👀 I’m interested in Data science. 
-- 🌱 I’m currently learning python, Dart language. 
+- 👀 I’m a Data science student. 
+- 🌱 I’m currently learning matlab, python, and Dart language. 
 
 
 <!---
