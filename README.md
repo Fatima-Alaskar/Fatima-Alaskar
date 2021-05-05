@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fatima-Alaskar
-- 👀 I’m a Data science student. 
+- 👀 I’m Data science student. 
 - 🌱 I’m currently learning matlab, python, and Dart language. 
 
 
